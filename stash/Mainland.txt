@@ -117,7 +117,7 @@ payload:
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,im9.com
   - DOMAIN-SUFFIX,smtcdns.net
-  # 新浪
+  # 新浪微博
   - DOMAIN-SUFFIX,leju.com
   - DOMAIN-SUFFIX,miaopai.com
   - DOMAIN-SUFFIX,sina.com
@@ -173,25 +173,6 @@ payload:
   # 快手
   - DOMAIN-SUFFIX,kuaishou.com
   - DOMAIN-SUFFIX,yximgs.com
-  # PPTV、PPLive
-  - DOMAIN-SUFFIX,pplive.com
-  - DOMAIN-SUFFIX,pptv.com
-  # YYeTs 人人影视
-  - DOMAIN-SUFFIX,got001.com
-  - DOMAIN-SUFFIX,p4pfile.com
-  - DOMAIN-SUFFIX,rrys.tv
-  - DOMAIN-SUFFIX,rrys2020.com
-  - DOMAIN-SUFFIX,yyets.com
-  - DOMAIN-SUFFIX,zimuzu.io
-  - DOMAIN-SUFFIX,zimuzu.tv
-  - DOMAIN-SUFFIX,zmz001.com
-  - DOMAIN-SUFFIX,zmz002.com
-  - DOMAIN-SUFFIX,zmz003.com
-  - DOMAIN-SUFFIX,zmz004.com
-  - DOMAIN-SUFFIX,zmz2019.com
-  - DOMAIN-SUFFIX,zmzapi.com
-  - DOMAIN-SUFFIX,zmzapi.net
-  - DOMAIN-SUFFIX,zmzfile.com
   # 金山软件
   - DOMAIN-SUFFIX,iciba.com
   - DOMAIN-SUFFIX,ksosoft.com
