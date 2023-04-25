@@ -1,0 +1,14 @@
+# 内容：Instagram、Facebook
+payload:
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagr.am
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,fbcdn.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-KEYWORD,fbcdn
+  - DOMAIN-KEYWORD,facebook
+  - IP-CIDR,157.240.0.0/17,no-resolve
