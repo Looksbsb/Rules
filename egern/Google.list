@@ -37,7 +37,3 @@ domain_suffix_set:
 domain_set: 
   - yt3.ggpht.com
   - music.youtube.com
-domain_keyword_set: 
-  - google
-  - youtube
-  - gmail
