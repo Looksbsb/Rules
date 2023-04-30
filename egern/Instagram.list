@@ -8,7 +8,3 @@ domain_suffix_set:
   - fb.me
   - fbcdn.com
   - fbcdn.net
-domain_keyword_set: 
-  - instagram
-  - facebook
-  - fbcdn
