@@ -46,6 +46,8 @@ payload:
   - DOMAIN-SUFFIX,fujinjiazheng.com
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,tcdnos.com
+  - DOMAIN,secure.globalsign.com,DIRECT
+  - DOMAIN-SUFFIX,hellobike.com,DIRECT
   # 腾讯
   - DOMAIN-SUFFIX,foxmail.com
   - DOMAIN-SUFFIX,gtimg.com
