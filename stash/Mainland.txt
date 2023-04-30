@@ -1,294 +1,265 @@
-payload:
-  # 阿里巴巴
-  - DOMAIN-SUFFIX,1688.com
-  - DOMAIN-SUFFIX,aliapp.org
-  - DOMAIN-SUFFIX,alibaba.com
-  - DOMAIN-SUFFIX,alibabacloud.com
-  - DOMAIN-SUFFIX,alibabausercontent.com
-  - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,alicloudccp.com
-  - DOMAIN-SUFFIX,aliexpress.com
-  - DOMAIN-SUFFIX,aliimg.com
-  - DOMAIN-SUFFIX,alikunlun.com
-  - DOMAIN-SUFFIX,alipay.com
-  - DOMAIN-SUFFIX,alipayobjects.com
-  - DOMAIN-SUFFIX,alisoft.com
-  - DOMAIN-SUFFIX,aliyun.com
-  - DOMAIN-SUFFIX,aliyuncdn.com
-  - DOMAIN-SUFFIX,aliyuncs.com
-  - DOMAIN-SUFFIX,aliyundrive.com
-  - DOMAIN-SUFFIX,aliyundrive.net
-  - DOMAIN-SUFFIX,alibabachengdun.com
-  - DOMAIN-SUFFIX,amap.com
-  - DOMAIN-SUFFIX,autonavi.com
-  - DOMAIN-SUFFIX,dingtalk.com
-  - DOMAIN-SUFFIX,ele.me
-  - DOMAIN-SUFFIX,hichina.com
-  - DOMAIN-SUFFIX,mmstat.com
-  - DOMAIN-SUFFIX,mxhichina.com
-  - DOMAIN-SUFFIX,soku.com
-  - DOMAIN-SUFFIX,taobao.com
-  - DOMAIN-SUFFIX,taobaocdn.com
-  - DOMAIN-SUFFIX,tbcache.com
-  - DOMAIN-SUFFIX,tbcdn.com
-  - DOMAIN-SUFFIX,tmall.com
-  - DOMAIN-SUFFIX,tmall.hk
-  - DOMAIN-SUFFIX,ucweb.com
-  - DOMAIN-SUFFIX,xiami.com
-  - DOMAIN-SUFFIX,xiami.net
-  - DOMAIN-SUFFIX,ykimg.com
-  - DOMAIN-SUFFIX,youku.com
-  - DOMAIN-SUFFIX,fliggy.com
-  - DOMAIN-SUFFIX,tanx.com
-  - DOMAIN-SUFFIX,openinstall.io
-  - DOMAIN-SUFFIX,zhugeio.com
-  - DOMAIN-SUFFIX,1haozc.com
-  - DOMAIN-SUFFIX,fujinjiazheng.com
-  - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,tcdnos.com
-  - DOMAIN,secure.globalsign.com,DIRECT
-  - DOMAIN-SUFFIX,hellobike.com,DIRECT
-  # 腾讯
-  - DOMAIN-SUFFIX,foxmail.com
-  - DOMAIN-SUFFIX,gtimg.com
-  - DOMAIN-SUFFIX,idqqimg.com
-  - DOMAIN-SUFFIX,igamecj.com
-  - DOMAIN-SUFFIX,myapp.com
-  - DOMAIN-SUFFIX,myqcloud.com
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,qqmail.com
-  - DOMAIN-SUFFIX,qqurl.com
-  - DOMAIN-SUFFIX,smtcdns.com
-  - DOMAIN-SUFFIX,smtcdns.net
-  - DOMAIN-SUFFIX,soso.com
-  - DOMAIN-SUFFIX,tencent-cloud.net
-  - DOMAIN-SUFFIX,tencent.com
-  - DOMAIN-SUFFIX,tencentmind.com
-  - DOMAIN-SUFFIX,tenpay.com
-  - DOMAIN-SUFFIX,wechat.com
-  - DOMAIN-SUFFIX,weixin.com
-  - DOMAIN-SUFFIX,weiyun.com
-  - DOMAIN-SUFFIX,chinahr.com
-  # 微信
-  - DOMAIN-SUFFIX,qlogo.cn
-  - DOMAIN-SUFFIX,qpic.cn
-  - DOMAIN-SUFFIX,servicewechat.com
-  - DOMAIN-SUFFIX,tenpay.com
-  - DOMAIN-SUFFIX,wechatlegal.net
-  - DOMAIN-SUFFIX,wechatpay.com
-  - DOMAIN-SUFFIX,weixinbridge.com
-  - DOMAIN-SUFFIX,weixinsxy.com
-  - DOMAIN-SUFFIX,shujupie.com
-  # 网易
-  - DOMAIN-SUFFIX,126.com
-  - DOMAIN-SUFFIX,126.net
-  - DOMAIN-SUFFIX,127.net
-  - DOMAIN-SUFFIX,163.com
-  - DOMAIN-SUFFIX,163yun.com
-  - DOMAIN-SUFFIX,lofter.com
-  - DOMAIN-SUFFIX,netease.com
-  - DOMAIN-SUFFIX,netease.im
-  - DOMAIN-SUFFIX,ydstatic.com
-  - DOMAIN-SUFFIX,youdao.com
-  # 百度
-  - DOMAIN-SUFFIX,baidu.com
-  - DOMAIN-SUFFIX,baidubcr.com
-  - DOMAIN-SUFFIX,baidupcs.com
-  - DOMAIN-SUFFIX,baidustatic.com
-  - DOMAIN-SUFFIX,bcebos.com
-  - DOMAIN-SUFFIX,bdimg.com
-  - DOMAIN-SUFFIX,bdstatic.com
-  - DOMAIN-SUFFIX,bdurl.net
-  - DOMAIN-SUFFIX,hao123.com
-  - DOMAIN-SUFFIX,hao123img.com
-  - DOMAIN-SUFFIX,jomodns.com
-  - DOMAIN-SUFFIX,yunjiasu-cdn.net
-  # B站
-  - DOMAIN-SUFFIX,acg.tv
-  - DOMAIN-SUFFIX,acgvideo.com
-  - DOMAIN-SUFFIX,b23.tv
-  - DOMAIN-SUFFIX,bigfun.cn
-  - DOMAIN-SUFFIX,bigfunapp.cn
-  - DOMAIN-SUFFIX,biliapi.com
-  - DOMAIN-SUFFIX,biliapi.net
-  - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,biligame.com
-  - DOMAIN-SUFFIX,biligame.net
-  - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-SUFFIX,bilivideo.cn
-  - DOMAIN-SUFFIX,hdslb.com
-  - DOMAIN-SUFFIX,im9.com
-  - DOMAIN-SUFFIX,smtcdns.net
-  # 新浪微博
-  - DOMAIN-SUFFIX,leju.com
-  - DOMAIN-SUFFIX,miaopai.com
-  - DOMAIN-SUFFIX,sina.com
-  - DOMAIN-SUFFIX,sina.com.cn
-  - DOMAIN-SUFFIX,sina.cn
-  - DOMAIN-SUFFIX,sinaapp.com
-  - DOMAIN-SUFFIX,sinaapp.cn
-  - DOMAIN-SUFFIX,sinaimg.com
-  - DOMAIN-SUFFIX,sinaimg.cn
-  - DOMAIN-SUFFIX,weibo.com
-  - DOMAIN-SUFFIX,weibo.cn
-  - DOMAIN-SUFFIX,weibocdn.com
-  - DOMAIN-SUFFIX,weibocdn.cn
-  - DOMAIN-SUFFIX,xiaoka.tv
-  # CN域名直连(中国|公司|网络)
-  - DOMAIN-SUFFIX,cn
-  - DOMAIN-SUFFIX,xn--fiqs8s
-  - DOMAIN-SUFFIX,xn--55qx5d
-  - DOMAIN-SUFFIX,xn--io0a7i
-  # CCTV
-  - DOMAIN-SUFFIX,cctv.com
-  - DOMAIN-SUFFIX,cctvpic.com
-  - DOMAIN-SUFFIX,livechina.com
-  # ChinaNet
-  - DOMAIN-SUFFIX,21cn.com
-  # 京东
-  - DOMAIN-SUFFIX,360buy.com
-  - DOMAIN-SUFFIX,360buyimg.com
-  - DOMAIN-SUFFIX,jcloudcs.com
-  - DOMAIN-SUFFIX,jd.com
-  - DOMAIN-SUFFIX,jd.hk
-  - DOMAIN-SUFFIX,jdcloud.com
-  - DOMAIN-SUFFIX,jdpay.com
-  - DOMAIN-SUFFIX,paipai.com
-  # 拼多多
-  - DOMAIN-SUFFIX,pinduoduo.com
-  - DOMAIN-SUFFIX,yangkeduo.com
-  # 唯品会
-  - DOMAIN-SUFFIX,appsimg.com
-  - DOMAIN-SUFFIX,appvipshop.com
-  - DOMAIN-SUFFIX,vip.com
-  - DOMAIN-SUFFIX,vipstatic.com
-  # CDN 公共直连
-  - DOMAIN-SUFFIX,baomitu.com
-  - DOMAIN-SUFFIX,bootcss.com
-  - DOMAIN-SUFFIX,jiasule.com
-  - DOMAIN-SUFFIX,staticfile.org
-  - DOMAIN-SUFFIX,upaiyun.com
-  # 科大讯飞
-  - DOMAIN-SUFFIX,iflyink.com
-  - DOMAIN-SUFFIX,iflyrec.com
-  - DOMAIN-SUFFIX,iflytek.com
-  # 快手
-  - DOMAIN-SUFFIX,kuaishou.com
-  - DOMAIN-SUFFIX,yximgs.com
-  # 金山软件
-  - DOMAIN-SUFFIX,iciba.com
-  - DOMAIN-SUFFIX,ksosoft.com
-  - DOMAIN-SUFFIX,ksyun.com
-  # 搜狐 搜狗
-  - DOMAIN-SUFFIX,go2map.com
-  - DOMAIN-SUFFIX,sogo.com
-  - DOMAIN-SUFFIX,sogou.com
-  - DOMAIN-SUFFIX,sogoucdn.com
-  - DOMAIN-SUFFIX,sohu-inc.com
-  - DOMAIN-SUFFIX,sohu.com
-  - DOMAIN-SUFFIX,sohucs.com
-  - DOMAIN-SUFFIX,sohuno.com
-  - DOMAIN-SUFFIX,sohurdc.com
-  - DOMAIN-SUFFIX,v-56.com
-  # 美图
-  - DOMAIN-SUFFIX,meitu.com
-  - DOMAIN-SUFFIX,meitudata.com
-  - DOMAIN-SUFFIX,meitustat.com
-  - DOMAIN-SUFFIX,meipai.com
-  # 字节跳动
-  - DOMAIN-SUFFIX,amemv.com
-  - DOMAIN-SUFFIX,bdxiguaimg.com
-  - DOMAIN-SUFFIX,bdxiguastatic.com
-  - DOMAIN-SUFFIX,byted-static.com
-  - DOMAIN-SUFFIX,bytedance.com
-  - DOMAIN-SUFFIX,bytedance.net
-  - DOMAIN-SUFFIX,bytedns.net
-  - DOMAIN-SUFFIX,bytednsdoc.com
-  - DOMAIN-SUFFIX,bytegoofy.com
-  - DOMAIN-SUFFIX,byteimg.com
-  - DOMAIN-SUFFIX,bytescm.com
-  - DOMAIN-SUFFIX,bytetos.com
-  - DOMAIN-SUFFIX,bytexservice.com
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,douyinpic.com
-  - DOMAIN-SUFFIX,douyinstatic.com
-  - DOMAIN-SUFFIX,douyinvod.com
-  - DOMAIN-SUFFIX,feelgood.cn
-  - DOMAIN-SUFFIX,feiliao.com
-  - DOMAIN-SUFFIX,gifshow.com
-  - DOMAIN-SUFFIX,huoshan.com
-  - DOMAIN-SUFFIX,huoshanzhibo.com
-  - DOMAIN-SUFFIX,ibytedapm.com
-  - DOMAIN-SUFFIX,iesdouyin.com
-  - DOMAIN-SUFFIX,ixigua.com
-  - DOMAIN-SUFFIX,kspkg.com
-  - DOMAIN-SUFFIX,pstatp.com
-  - DOMAIN-SUFFIX,snssdk.com
-  - DOMAIN-SUFFIX,toutiao.com
-  - DOMAIN-SUFFIX,toutiao13.com
-  - DOMAIN-SUFFIX,toutiaoapi.com
-  - DOMAIN-SUFFIX,toutiaocdn.com
-  - DOMAIN-SUFFIX,toutiaocdn.net
-  - DOMAIN-SUFFIX,toutiaocloud.com
-  - DOMAIN-SUFFIX,toutiaohao.com
-  - DOMAIN-SUFFIX,toutiaohao.net
-  - DOMAIN-SUFFIX,toutiaoimg.com
-  - DOMAIN-SUFFIX,toutiaopage.com
-  - DOMAIN-SUFFIX,wukong.com
-  - DOMAIN-SUFFIX,zijieapi.com
-  - DOMAIN-SUFFIX,zijieimg.com
-  - DOMAIN-SUFFIX,zjbyte.com
-  - DOMAIN-SUFFIX,zjcdn.com
-  # 国内常用域名
-  - DOMAIN-SUFFIX,10010.com
-  - DOMAIN-SUFFIX,cn163.net
-  - DOMAIN-SUFFIX,12306.com
-  - DOMAIN-SUFFIX,chinacache.net
-  - DOMAIN-SUFFIX,chinaso.com
-  - DOMAIN-SUFFIX,chinaz.com
-  - DOMAIN-SUFFIX,chinaz.net
-  - DOMAIN-SUFFIX,douban.com
-  - DOMAIN-SUFFIX,doubanio.com
-  - DOMAIN-SUFFIX,msstatic.com
-  - DOMAIN-SUFFIX,it168.com
-  - DOMAIN-SUFFIX,ithome.com
-  - DOMAIN-SUFFIX,umeng.com
-  - DOMAIN-SUFFIX,ruanmei.com
-  - DOMAIN-SUFFIX,zhihu.com
-  - DOMAIN-SUFFIX,zhimg.com
-  - DOMAIN-SUFFIX,zhongsou.com
-  - DOMAIN-SUFFIX,zhaopin.com
-  - DOMAIN-SUFFIX,zhuihd.com
-  - DOMAIN-SUFFIX,bosszhipin.com
-  - DOMAIN-SUFFIX,zhipin.com
-  - DOMAIN-SUFFIX,58.com
-  - DOMAIN-SUFFIX,didialift.com
-  - DOMAIN-SUFFIX,didiglobal.com
-  - DOMAIN-SUFFIX,udache.com
-  - DOMAIN-SUFFIX,zdmimg.com
-  - DOMAIN-SUFFIX,mob.com
-  - DOMAIN-SUFFIX,unionpay.com
-  - DOMAIN-SUFFIX,getui.com
-  - DOMAIN-SUFFIX,95516.com
-  - DOMAIN-SUFFIX,weather.com
-  - DOMAIN-SUFFIX,meilishuo.com
-  - DOMAIN-SUFFIX,meituan.com
-  - DOMAIN-SUFFIX,meituan.net
-  - DOMAIN-SUFFIX,meizu.com
-  # 中国国内常见域名关键词直连
-  - DOMAIN-KEYWORD,360buy
-  - DOMAIN-KEYWORD,alicdn
-  - DOMAIN-KEYWORD,alimama
-  - DOMAIN-KEYWORD,alipay
-  - DOMAIN-KEYWORD,appzapp
-  - DOMAIN-KEYWORD,baidupcs
-  - DOMAIN-KEYWORD,bilibili
-  - DOMAIN-KEYWORD,ccgslb
-  - DOMAIN-KEYWORD,chinacache
-  - DOMAIN-KEYWORD,duobao
-  - DOMAIN-KEYWORD,jdpay
-  - DOMAIN-KEYWORD,moke
-  - DOMAIN-KEYWORD,qhimg
-  - DOMAIN-KEYWORD,vpimg
-  - DOMAIN-KEYWORD,xiami
-  - DOMAIN-KEYWORD,95516
+# 阿里巴巴
+.1688.com
+.aliapp.org
+.alibaba.com
+.alibabacloud.com
+.alibabausercontent.com
+.alicdn.com
+.alicloudccp.com
+.aliexpress.com
+.aliimg.com
+.alikunlun.com
+.alipay.com
+.alipayobjects.com
+.alisoft.com
+.aliyun.com
+.aliyuncdn.com
+.aliyuncs.com
+.aliyundrive.com
+.aliyundrive.net
+.alibabachengdun.com
+.amap.com
+.autonavi.com
+.dingtalk.com
+.ele.me
+.hichina.com
+.mmstat.com
+.mxhichina.com
+.soku.com
+.taobao.com
+.taobaocdn.com
+.tbcache.com
+.tbcdn.com
+.tmall.com
+.tmall.hk
+.ucweb.com
+.xiami.com
+.xiami.net
+.ykimg.com
+.youku.com
+.fliggy.com
+.tanx.com
+.openinstall.io
+.zhugeio.com
+.1haozc.com
+.fujinjiazheng.com
+.digicert.com
+.tcdnos.com
+secure.globalsign.com
+.hellobike.com
+# 腾讯
+.foxmail.com
+.gtimg.com
+.idqqimg.com
+.igamecj.com
+.myapp.com
+.myqcloud.com
+.qq.com
+.qqmail.com
+.qqurl.com
+.smtcdns.com
+.smtcdns.net
+.soso.com
+.tencent-cloud.net
+.tencent.com
+.tencentmind.com
+.tenpay.com
+.wechat.com
+.weixin.com
+.weiyun.com
+.chinahr.com
+# 微信
+.qlogo.cn
+.qpic.cn
+.servicewechat.com
+.tenpay.com
+.wechatlegal.net
+.wechatpay.com
+.weixinbridge.com
+.weixinsxy.com
+.shujupie.com
+# 网易
+.126.com
+.126.net
+.127.net
+.163.com
+.163yun.com
+.lofter.com
+.netease.com
+.netease.im
+.ydstatic.com
+.youdao.com
+# 百度
+.baidu.com
+.baidubcr.com
+.baidupcs.com
+.baidustatic.com
+.bcebos.com
+.bdimg.com
+.bdstatic.com
+.bdurl.net
+.hao123.com
+.hao123img.com
+.jomodns.com
+.yunjiasu-cdn.net
+# B站
+.acg.tv
+.acgvideo.com
+.b23.tv
+.bigfun.cn
+.bigfunapp.cn
+.biliapi.com
+.biliapi.net
+.bilibili.com
+.biligame.com
+.biligame.net
+.bilivideo.com
+.bilivideo.cn
+.hdslb.com
+.im9.com
+.smtcdns.net
+# 新浪微博
+.leju.com
+.miaopai.com
+.sina.com
+.sina.com.cn
+.sina.cn
+.sinaapp.com
+.sinaapp.cn
+.sinaimg.com
+.sinaimg.cn
+.weibo.com
+.weibo.cn
+.weibocdn.com
+.weibocdn.cn
+.xiaoka.tv
+# CN域名直连(中国|公司|网络)
+.cn
+.xn--fiqs8s
+.xn--55qx5d
+.xn--io0a7i
+# CCTV
+.cctv.com
+.cctvpic.com
+.livechina.com
+# ChinaNet
+.21cn.com
+# 京东
+.360buy.com
+.360buyimg.com
+.jcloudcs.com
+.jd.com
+.jd.hk
+.jdcloud.com
+.jdpay.com
+.paipai.com
+# 拼多多
+.pinduoduo.com
+.yangkeduo.com
+# 唯品会
+.appsimg.com
+.appvipshop.com
+.vip.com
+.vipstatic.com
+# CDN 公共直连
+.baomitu.com
+.bootcss.com
+.jiasule.com
+.staticfile.org
+.upaiyun.com
+# 科大讯飞
+.iflyink.com
+.iflyrec.com
+.iflytek.com
+# 快手
+.kuaishou.com
+.yximgs.com
+# 金山软件
+.iciba.com
+.ksosoft.com
+.ksyun.com
+# 美图
+.meitu.com
+.meitudata.com
+.meitustat.com
+.meipai.com
+# 字节跳动
+.amemv.com
+.bdxiguaimg.com
+.bdxiguastatic.com
+.byted-static.com
+.bytedance.com
+.bytedance.net
+.bytedns.net
+.bytednsdoc.com
+.bytegoofy.com
+.byteimg.com
+.bytescm.com
+.bytetos.com
+.bytexservice.com
+.douyin.com
+.douyinpic.com
+.douyinstatic.com
+.douyinvod.com
+.feelgood.cn
+.feiliao.com
+.gifshow.com
+.huoshan.com
+.huoshanzhibo.com
+.ibytedapm.com
+.iesdouyin.com
+.ixigua.com
+.kspkg.com
+.pstatp.com
+.snssdk.com
+.toutiao.com
+.toutiao13.com
+.toutiaoapi.com
+.toutiaocdn.com
+.toutiaocdn.net
+.toutiaocloud.com
+.toutiaohao.com
+.toutiaohao.net
+.toutiaoimg.com
+.toutiaopage.com
+.wukong.com
+.zijieapi.com
+.zijieimg.com
+.zjbyte.com
+.zjcdn.com
+# 其他常用域名
+.10010.com
+.cn163.net
+.12306.com
+.chinacache.net
+.chinaso.com
+.chinaz.com
+.chinaz.net
+.douban.com
+.doubanio.com
+.msstatic.com
+.it168.com
+.ithome.com
+.umeng.com
+.ruanmei.com
+.zhihu.com
+.zhimg.com
+.zhongsou.com
+.zhaopin.com
+.zhuihd.com
+.bosszhipin.com
+.zhipin.com
+.58.com
+.didialift.com
+.didiglobal.com
+.udache.com
+.zdmimg.com
+.mob.com
+.unionpay.com
+.getui.com
+.95516.com
+.weather.com
+.meilishuo.com
+.meituan.com
+.meituan.net
+.meizu.com
