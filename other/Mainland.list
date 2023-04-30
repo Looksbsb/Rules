@@ -156,11 +156,6 @@ DOMAIN-SUFFIX,paipai.com
 # 拼多多
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,yangkeduo.com
-# 唯品会
-DOMAIN-SUFFIX,appsimg.com
-DOMAIN-SUFFIX,appvipshop.com
-DOMAIN-SUFFIX,vip.com
-DOMAIN-SUFFIX,vipstatic.com
 # CDN 公共直连
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
@@ -178,23 +173,12 @@ DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,ksyun.com
-# 搜狐 搜狗
-DOMAIN-SUFFIX,go2map.com
-DOMAIN-SUFFIX,sogo.com
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,sogoucdn.com
-DOMAIN-SUFFIX,sohu-inc.com
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,sohucs.com
-DOMAIN-SUFFIX,sohuno.com
-DOMAIN-SUFFIX,sohurdc.com
-DOMAIN-SUFFIX,v-56.com
 # 美图
 DOMAIN-SUFFIX,meitu.com
 DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meipai.com
-# 字节跳动
+# 字节
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdxiguaimg.com
 DOMAIN-SUFFIX,bdxiguastatic.com
@@ -238,7 +222,7 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjcdn.com
-# 国内常用域名
+# 其他常用域名
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,cn163.net
 DOMAIN-SUFFIX,12306.com
@@ -274,20 +258,3 @@ DOMAIN-SUFFIX,meilishuo.com
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,meizu.com
-# 中国国内常见域名关键词直连
-DOMAIN-KEYWORD,360buy
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,alimama
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,appzapp
-DOMAIN-KEYWORD,baidupcs
-DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,ccgslb
-DOMAIN-KEYWORD,chinacache
-DOMAIN-KEYWORD,duobao
-DOMAIN-KEYWORD,jdpay
-DOMAIN-KEYWORD,moke
-DOMAIN-KEYWORD,qhimg
-DOMAIN-KEYWORD,vpimg
-DOMAIN-KEYWORD,xiami
-DOMAIN-KEYWORD,95516
