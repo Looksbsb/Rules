@@ -19,5 +19,3 @@ domain_suffix_set:
   - itunes.com
   - me.com
   - mzstatic.com
-domain_keyword_set:
-  - testflight
